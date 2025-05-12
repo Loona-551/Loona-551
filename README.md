@@ -1,4 +1,4 @@
-# Hi, I'm Loona 👋
+# Hi, I'm Luna 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Loona-551&color=blue)
 ![GitHub Followers](https://img.shields.io/github/followers/Loona-551?label=Followers&style=social)
